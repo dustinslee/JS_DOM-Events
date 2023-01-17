@@ -13,6 +13,16 @@ body {
   margin: 0;
 }
 
+#close-btn {  
+  background-color: white;
+  position: relative;
+  bottom: 3em;
+  left: 2.5em;
+  padding: .5em;
+  border: none;
+  cursor: pointer;
+}
+
 #modal {
   position: fixed;
   top: 0;
